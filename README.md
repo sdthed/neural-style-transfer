@@ -5,7 +5,7 @@ Based on [this Tensorflow tutrial](https://www.tensorflow.org/tutorials/generati
 
 ## TODO
 
-[ ] Figure out how to integrate github with colab.
-[ ] Upload images to colab.
-[ ] Implement Style Transfer.
-[ ] Autonamte style transfer workflow.
+- [ ] Figure out how to integrate github with colab.
+- [ ] Upload images to colab.
+- [ ] Implement Style Transfer.
+- [ ] Autonamte style transfer workflow.
